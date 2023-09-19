@@ -1,0 +1,30 @@
+CLASS 2 BLOG
+
+Today I learned about conditionals. You can compare multiple things and based on the result have your function execute different commands
+
+
+The difference between == and === is the == checks for equality but isnt strict on the data type or value 
+whereas the === does an equality comparison but is more strict
+
+
+The value of var foo = 10 + '20 would be
+1020
+
+
+A terminal application is pretty self-explanitory 
+
+
+Ternary operator is when you write a conditional with ? and : instead of if/else
+
+
+You could make a website or app more accessible by having a volume slider, subtitles, text to speech, eye tracking execute
+
+
+my favorite feature of HTML5 are the <div> tags. Love wrapping everything in them div tags
+
+
+I try and structure my CSS to follow my HTML from top to bottom, generally from less specific to more specific
+
+
+
+

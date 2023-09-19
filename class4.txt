@@ -1,0 +1,22 @@
+CLASS 4 BLOG
+
+Something confusing initially was the way a for loop works. The way I would explain it to someone else is that you
+define where you want to start the loop
+define where you want to end
+how much to increase the iterator each loop 
+what to do when the condition is met 
+
+
+use strict is a directive in JS that enforces a stricter set of rules for your code 
+
+
+Function hoisting is when you call a function before it is written in your JS file
+
+
+Standards and standards bodies are important for just about everything especially things as big as the web. Standards help ensure quality and safety.
+
+
+I've tried to increase the maintainability of my code by coming up with a plan before writing my code and trying to write my code as clean as possible
+
+
+Don't fix it if it ain't broke.
