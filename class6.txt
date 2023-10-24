@@ -1,0 +1,30 @@
+One thing I learned about is the object.keys() method. When looking at data in a json file you can use this method to put the keys into an array
+so you can loop over them.
+
+
+What's the difference between: function Person(){}, var person = Person(), and var person = new Person()?
+function Person(){} is a constructor
+var person = Person() stores the Person() function in a variable
+var person = new Person() creates a new Person object and stores it in a variable
+
+
+What's the difference between an "attribute" and a "property"?
+attributes are the qualities of an object that can be created
+properties are existing characteristics of an object that can be manipulated through the DOM
+
+
+What language constructions do you use for iterating over object properties and array items?
+You would use a loop to iterate over object properties and array items, for (i = 0; i < arr.length; i++)
+
+
+What is the event loop? 
+The event loop allows you to use code asynchronously. It makes it so JS doesn't pause and wait for a function to complete, it will continue to run other
+code and then come back to a function when its ready to be executed
+
+
+What is the difference between call stack and task queue?
+Call stacks are synchronous they execute functions in order, task queue is asynchronous it runs functions when they are able to run
+
+
+What are the differences between ES6 classes and ES5 function constructors?
+Some of the differences are syntax, inheritance and methods

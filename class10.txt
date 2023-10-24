@@ -1,0 +1,28 @@
+One thing we learned about today was the class keyword. A class is like a template and you use a constructor function
+to define properties using the "this" keyword
+
+
+Can you offer a use case for the new arrow => function syntax?
+
+=> means returns
+
+const newFunction = (a,b) => {
+    let sum = a + b
+}
+
+
+Explain the differences on the usage of foo between function foo() {} and const foo = function() {}
+with function foo () {} you can call it before its defined because it is hoisted and with const foo you cannot
+
+What advantage is there for using the arrow syntax for a method in a constructor?
+
+Functions with arrow syntax dont have their own "this" but inherit it from the surrounding content which is useful for constructors because it 
+can help maintin the same "this"
+
+
+Can you give an example for destructuring an object or an array?
+Destructuring in JavaScript allows you to extract values from arrays and assign them to variables. 
+
+
+Explain Closure in your own words
+It's where a function is defined in another function which makes it so it can use those functions variables while outside the function.

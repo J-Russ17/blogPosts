@@ -1,0 +1,46 @@
+One thing we learned today was that algorithms are a step-by-step set of instructions or a recipe
+that describes how to solve a specific problem or perform a particular task.
+
+
+What are the pros and cons of immutability?
+Pros:
+Easier to debug
+More predictable
+Makes code more functional
+
+Cons:
+More complex
+Uses more memory
+Difficult to grasp
+
+
+How can you achieve immutability in your own code?
+By using const to declare variables as opposed to let
+
+
+What are Divide and Conquer algorithms? Describe how they work. Can you give any common examples of the types of problems where this approach might be used?
+When you divide a problem into smaller problems and then conquer the smaller problems by applying your algorithm to it
+
+How do insertion sort, heap sort, quick sort, and merge sort work?
+They are all sorting algorithms that each sort an array differently
+insertion compares items one at a time
+heap sort finds largest item and moves it to the top until all items are sorted
+merge sort breaks a list into smaller parts, organizes those, then puts the parts back together
+
+
+What are the key advantages of insertion sort, quick sort, heap sort and merge sort? Discuss best, average, and worst case time and memory complexity.
+insertion:
+very simple
+good for short lists
+
+quick:
+memory efficient
+versatile
+
+heap:
+time efficient
+consistent
+
+merge:
+stable
+predictable

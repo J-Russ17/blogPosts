@@ -1,0 +1,32 @@
+One thing we learned today was .forEach() is a method that only takes callback functions as its arguments and that it is 
+similar to for loops.
+
+Can you describe the main difference between a forEach loop and a .map() loop and why you would pick one versus the other?
+forEach modifies the existing array
+map returns a new array
+I would use forEach when I want to change an array but don't want a new one and I want use .map() when I want to make a separate array with changes.
+
+
+Describe event bubbling.
+Event bubbling is when one event triggers another event, usually the parent. 
+
+
+What is the definition of a higher-order function?
+A higher-order function is a function that takes one or more functions as arguments and can return a function as its result.
+
+
+ES6 Template Literals offer a lot of flexibility in generating strings. Can you give an example?
+let fname = "Josh"
+let lname = "Adams"
+
+const intro = `My first name is ${fname} and my last name is ${lname}`
+
+console.log(intro)
+
+
+What Is an associative array in JavaScript?
+An associative array is a variable that holds key-value pairs.
+
+
+Why should you never use new Array in JavaScript?
+It is extremely innefficient.
