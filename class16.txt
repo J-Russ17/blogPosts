@@ -11,3 +11,6 @@ Event bubbling is when one event triggers another event, usually the parent.
 
 What's the difference between the window load event and document DOMContentLoaded event?
 They have a difference in execution timing, use cases, and performance
+
+Describe the call stack.
+The call stack uses LIFO or last in first out so the most recently called function is completed before going back to previous ones
