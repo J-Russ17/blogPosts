@@ -1,0 +1,13 @@
+We learned about immutability. Things that are immutable cannot have their value changed. For example a variable with the const label
+
+
+Explain Function.prototype.bind()
+Function.prototype.bind() is a method that creates a new function with 'this' as the argument 
+
+
+Describe event bubbling.
+Event bubbling is when one event triggers another event, usually the parent.
+
+
+What's the difference between the window load event and document DOMContentLoaded event?
+They have a difference in execution timing, use cases, and performance

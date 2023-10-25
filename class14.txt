@@ -1,0 +1,32 @@
+One the we learned about today was API keys. They are a code developers use to authenticate/access data provided by the API.
+
+
+Why would you use something like the load event? Does this event have disadvantages? Do you know any alternatives, and why would you use those?
+You would use it to make sure that an image or script etc has completely loaded before executing certain actions. Helps prevent errors.
+A disadvantage to the load event is that it doesn't work well with asynchronous code
+An alternative could be something like DOMContentLoaded Event or Promises
+
+
+What are the advantages and disadvantages of using Ajax?
+Advantages:
+Can update content without requiring a full page reload.
+Smoother more responsive user experience
+reduced bandwith
+
+
+Disadvantages:
+Adds complexity
+Can pose security risks
+Difficult to make more accessible to those with disabilities
+
+
+Explain how JSONP works (and how it's not really Ajax).
+JSONP doesn't exchange data directly it loads data as if it were a script.
+
+
+What does it mean when we talk about time complexity of an algorithm?
+It's how we measure how the running time of that algorithm grows in relation to the size of the input data using big O
+
+
+How do you see yourself growing as a web developer?
+I just got a new job that will free up a lot more study/homework time, I see myself growing as a developer by putting in the hours of coding/studying needed
